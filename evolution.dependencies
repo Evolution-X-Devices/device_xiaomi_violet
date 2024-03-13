@@ -24,7 +24,7 @@
   {
     "remote"      : "gitlab",
     "branch"      : "14",
-    "repository"  : "kibria5/android_prebuilts_clang_host_linux-x86_clang-r510928",
+    "repository"  : "kibria5/android_prebuilts_clang_host_linux-x86_clang-r522817",
     "target_path" : "prebuilts/clang/host/linux-x86/clang-r510928"
   }
 ]
